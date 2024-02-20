@@ -3,6 +3,7 @@
 """ My class module that defines a non-empty class
 """
 
+
 class MyClass:
     """ My class
     """
