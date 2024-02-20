@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-"""This module defines a class Student
+"""module defines a class Student
 """
 
 
@@ -28,4 +28,4 @@ class Student:
         """Replaces all attributes of the Student
         """
         for k, v in json.items():
-
+            setattr(self, k, v)
