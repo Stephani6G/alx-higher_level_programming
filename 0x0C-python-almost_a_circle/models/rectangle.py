@@ -18,7 +18,7 @@ class Base:
     __nb_objects = 0
 
     def __init__(self, id=None):
-        """Initialize a new Base using self function 
+        """Initialize a new Base using self function
         Args:
             id (int): The identity of the new Base
         """
