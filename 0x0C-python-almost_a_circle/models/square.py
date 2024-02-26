@@ -19,7 +19,7 @@ class Square(Rectangle):
     @property
     def size(self):
         """
-            methosd that returns the size of the square 
+            methosd that returns the size of the square
         """
         return self.width
 
