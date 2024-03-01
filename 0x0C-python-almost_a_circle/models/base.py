@@ -9,7 +9,7 @@ import json
 
 
 class Base:
-    """the class Base which 
+    """the class Base which
     Methods:
         def __init__(self, id=None)
         def to_json_string(list_dictionaries)
